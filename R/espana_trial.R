@@ -5,6 +5,11 @@ library(ggplot2)
 library(dplyr)
 library(stringr)
 
+#http://www.gadm.org/
+spain_shape <- readRDS('../data/ESP_adm1.rds')
+plot(spain_shape)
+
+
 #https://www.educacion.gob.es/educabase/tabla.do?path=/Educacion/Alumnado/Resultadosacad/2014-2015/RegGen/l0/&file=RARG02.px&type=pcaxis&L=0
 escolar <- read.csv('../data/pcaxis-26832846.csv', header = F)
 escolar_limpio <- escolar[-c(1:5, 66),]
@@ -51,9 +56,6 @@ escolar_comunidades <- escolar_comunidades %>%
 
 readr::write_csv(escolar_comunidades, '../data/alumnado_que_promociona_primaria.csv')
 
-#http://www.gadm.org/
-spain_shape <- readRDS('../data/ESP_adm1.rds')
-plot(spain_shape)
 spain_fort <- fortify(spain_shape, region = 'NAME_1')
 
 escolar_comunidades_shape <- merge(spain_fort, escolar_comunidades, by = 'id')
