@@ -1,22 +1,27 @@
-# Los CRA, escuelas que resisten en el medio rural
+# [Start Bootstrap](http://startbootstrap.com/) - [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/)
 
-A finales de los años 80, surgió en España la figura de los Colegios Rurales Agrupados (CRA). El
-propósito de esta medida era corregir los desequilibrios existentes en la Educación General Básica
-entre el medio urbano y el rural.
-Hasta entonces, la Ley 14/1970 General de Educación y Financiamiento de la Reforma Educativa
-establecía, para toda la Educación General Básica (EGB), un modelo escolar basado en centros de ocho
-unidades como mínimo, una por cada uno de los ocho cursos de los que constaba dicho sistema. Estas
-condiciones provocaron, sobre todo en las zonas más despobladas del país, el cierre de pequeñas
-escuelas y, en consecuencia, la concentración de alumnos en centros comarcales así como el recurso
-masivo al transporte escolar de los alumnos.
-Los CRA surgieron como una reacción frente a este modelo, como una manera de evitar que se siguiesen
-cerrando colegios. En su empeño por corregir los desequilibrios entre el medio rural y el urbano,
-rompían con el esquema propuesto por la EGB y permitían solapar varios cursos en una misma clase. De
-esta manera, se convirtieron en la versión moderna de las escuelas de pueblo, en las que solo había
-un maestro y alumnos de diferentes edades estudiaban en un aula compartida. 
-El objetivo del proyecto es hacer una radiografía/mapear la situación actual de los CRA en los
-territorios más despoblados de España, principalmente Castilla-La Mancha, Extremadura, Castilla y
-León y Aragón. El análisis se centrará en áreas a las que prestan servicio, centros que hayan
-cerrado y se hayan creado a lo largo de los últimos años en la misma zona y su dotación de
-profesorado (interinos | maestros). Trataremos relatar de qué manera ha afectado la despoblación al
-derecho a la educación.
+[Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
+
+## Getting Started
+
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-clean-blog.git`
+* Fork the repo
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-clean-blog/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/clean-blog/).
+
+## Creator
+
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/gh-pages/LICENSE) license.
